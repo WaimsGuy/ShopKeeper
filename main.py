@@ -111,6 +111,7 @@ def sbuy(currentgold):
 # main shop directory
 # note: need to implement sell and inventory func
 def shop(currency):
+    resetshop();
     currentgold = currency
     print('Welcome adventurer! Have you come to browse my wares?')
     print('*You currently have ', currentgold, ' gold*')
