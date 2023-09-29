@@ -1,0 +1,3 @@
+Sword,3,120
+Dagger,0,60
+Potion,0,25
